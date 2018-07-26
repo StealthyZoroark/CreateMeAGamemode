@@ -1,0 +1,7 @@
+"sample"
+{
+	"base"		"nutscript"
+	"title"		"buildmerp"
+	"author"	"Stealthy Zoroark"
+	"menusystem"	"1"
+}
